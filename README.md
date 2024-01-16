@@ -1,10 +1,5 @@
 
 <html>
-<head>
-<title>
-Big data
-</title>
-</head>
 <body bgcolor=black text=white>
 <!--Elaborado por: Hernandez Rosas Sergio Ivan-->
 <p><font size=7><font face="algerian"> <p alig0n="center"><marquee direcction=left>Big data</marquee></font><p>
